@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="banner.png" alt="Portfolio Optimizer Banner" width="100%" />
+</p>
+
+
+
+
 Portfolio Optimizer is a Streamlit-based web app that helps users optimize their stock portfolios using historical price data and the Sharpe Ratio.
 📈 Supports both Indian (e.g., TCS.NS) and global (e.g., AAPL) stocks.
 📊 Visualizes optimized weights, expected returns, volatility & Sharpe Ratio using interactive charts.
